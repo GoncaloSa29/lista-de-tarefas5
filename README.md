@@ -6,3 +6,5 @@ Um projeto simples para gerir uma lista de tarefas.
 - [ ] Comprar leite
 - [ ] Estudar para o exame
 - [ ] Limpar o quarto
+- [ ] Fazer exercicio
+- [ ] Ler um livro
