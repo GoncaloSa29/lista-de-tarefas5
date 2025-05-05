@@ -9,3 +9,4 @@ Um projeto simples para gerir uma lista de tarefas.
 - [ ] Fazer exercicio
 - [ ] Ler um livro
 - [ ] Organizar a estante
+- [ ] Limpar a Terra
